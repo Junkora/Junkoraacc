@@ -5,7 +5,6 @@
  */
 export const SUPABASE_URL = "https://zkabbhbgzrkdwzshdbed.supabase.co";
 export const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InprYWJiaGJnenJrZHd6c2hkYmVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk0NTk3ODcsImV4cCI6MjA3NTAzNTc4N30.HTHtzKVwIWLKh8n4iITmKDdHzkQkvOhU4-OMRgqLuuc";
-export const SUPABASE_SERVICE_ROLE = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InprYWJiaGJnenJrZHd6c2hkYmVkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1OTQ1OTc4NywiZXhwIjoyMDc1MDM1Nzg3fQ.43Kh4T9DnLUzuJGuFuKcZ5e0Vnt4FLRKvD4s9jF6hic";
 
 /**
  * Optional helper: if you load supabase-js via CDN in index.html
